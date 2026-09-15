@@ -1,8 +1,8 @@
 name: "<PROJECT_NAME_HERE>"
 maintainer:
-    name: "ECEN 433 Student"
-    email: "ecen433student@gmail.com"
-description: "ROS project for Duckietown"
+    name: "Edward Cannon"
+    email: "ebcftb@gmail.com"
+description: "Lab 1"
 version: 0.0.0
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 icon: y-combinator
